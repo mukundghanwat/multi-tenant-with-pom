@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "app.tenants.m1.db-name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.tenants.m1.db-name'"
+  },
+  {
+    "name": "app.tenants.m1.user",
+    "type": "java.lang.String",
+    "description": "A description for 'app.tenants.m1.user'"
+  },
+  {
+    "name": "app.tenants.m1.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app.tenants.m1.password'"
+  },
+  {
+    "name": "app.tenants.m1.port",
+    "type": "java.lang.String",
+    "description": "A description for 'app.tenants.m1.port'"
+  },
+  {
+    "name": "app.tenants.m1.host",
+    "type": "java.lang.String",
+    "description": "A description for 'app.tenants.m1.host'"
+  },
+  {
+    "name": "app.tenants.m2.db-name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.tenants.m2.db-name'"
+  },
+  {
+    "name": "app.tenants.m2.user",
+    "type": "java.lang.String",
+    "description": "A description for 'app.tenants.m2.user'"
+  },
+  {
+    "name": "app.tenants.m2.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app.tenants.m2.password'"
+  },
+  {
+    "name": "app.tenants.m2.port",
+    "type": "java.lang.String",
+    "description": "A description for 'app.tenants.m2.port'"
+  },
+  {
+    "name": "app.tenants.m2.host",
+    "type": "java.lang.String",
+    "description": "A description for 'app.tenants.m2.host'"
+  },
+  {
+    "name": "app.defaultTenant",
+    "type": "java.lang.String",
+    "description": "A description for 'app.defaultTenant'"
+  }
+]}

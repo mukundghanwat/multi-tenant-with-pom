@@ -1,0 +1,17 @@
+app:
+  tenants:
+    m1:
+      dbName: m1
+      user: root
+      password: root
+      port: 3306
+      host: localhost
+
+    m2:
+      dbName: m2
+      user: root
+      password: root
+      port: 3306
+      host: localhost
+
+  defaultTenant: m1
